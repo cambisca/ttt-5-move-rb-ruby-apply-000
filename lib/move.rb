@@ -16,7 +16,7 @@ end
 
 player_character = ["X", "O"]
 
-def move(board, board[],  )
+def move(board)
 end
 
 
