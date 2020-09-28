@@ -16,8 +16,7 @@ end
 
 
 def move(array, index, value = "X")
-  array[index] = value 
-  return input_to_index
+  array[index] = valureturn input_to_index
 end
 
 
