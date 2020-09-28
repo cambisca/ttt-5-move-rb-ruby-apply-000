@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 def input_to_index(user_input)
-  #{board[4]} = '5'.to_i 
+  user_input = 
 end
 
 # code your input_to_index and move method here!
