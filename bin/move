@@ -4,4 +4,4 @@ require_relative '../lib/move.rb'
 
 # Code your CLI Here
 user_input = gets.strip
-board = 
+board = def move(array, index, value = "X")
